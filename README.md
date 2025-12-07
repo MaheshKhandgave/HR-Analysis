@@ -234,14 +234,6 @@ Tableau	Visual storytelling & advanced charts
 GitHub	Project documentation & version control
 
 
-
----
-
-# 📞 Contact / Author
-**Name:** Mahesh Khandgave  
-**LinkedIn:** [Click Here](https://www.linkedin.com/in/mahesh-khandgave-3457a4343/)  
-**Email:** khandgavemahesh@gmail.com
-
 ---
 📝 8. Conclusion
 
@@ -255,3 +247,10 @@ Improving retention strategy
 Identifying high-risk departments
 
 Understanding salary & work-life patterns
+
+
+---
+# 📞 Contact / Author
+**Name:** Mahesh Khandgave  
+**LinkedIn:** [Click Here](https://www.linkedin.com/in/mahesh-khandgave-3457a4343/)  
+**Email:** khandgavemahesh@gmail.com
