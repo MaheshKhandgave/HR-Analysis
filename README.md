@@ -153,6 +153,10 @@ Monthly Income
 
 SQL helped generate all backend values used in Power BI & Excel dashboards.
 
+![sql queary](https://github.com/MaheshKhandgave/HR-Analysis/blob/main/sql/sql.png.png)
+
+
+
 ---
 
 📊 5. Power BI Dashboard
@@ -193,7 +197,7 @@ Gender
 
 Job Role
 
-![powerbi Dashboard](powerbi/powerbiDashboard.png.png)
+![powerbi Dashboard](https://github.com/MaheshKhandgave/HR-Analysis/blob/main/power%20bi/powerbi%20Dashboard.png.png)
 
 ---
 
@@ -213,6 +217,8 @@ Job Role-wise Attrition
 
 
 The theme is professional with a clean UI and relevant slicers.
+
+![Tableau Dashboard](https://github.com/MaheshKhandgave/HR-Analysis/blob/main/Tableau/Tableau%20Dashboard.png.png)
 
 
 ---
