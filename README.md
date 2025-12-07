@@ -105,8 +105,8 @@ Slicers (Gender, Department, Job Role, Education Field)
 
 The dashboard is completely automated and slicer-controlled.
 
-### **Excel Dashboard**
-![powerbi Dashboard](powerbi/powerbiDashboard.png.png)
+
+
 ---
 🧮 4. SQL Analysis
 
@@ -189,7 +189,7 @@ Gender
 
 Job Role
 
-
+![powerbi Dashboard](powerbi/powerbiDashboard.png.png)
 
 ---
 
