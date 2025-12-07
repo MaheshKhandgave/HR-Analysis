@@ -106,7 +106,7 @@ Slicers (Gender, Department, Job Role, Education Field)
 The dashboard is completely automated and slicer-controlled.
 
 
-![excel Dashboard](excel/excelDashboard.png.png)
+![excel Dashboard](https://github.com/MaheshKhandgave/HR-Analysis/blob/main/excel/excel%20Dashboard.png.png)
 
 
 
